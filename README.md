@@ -5,3 +5,4 @@
 
 <p>This is the first part of my emulator which emulates a MOS 6502 cpu not including decimal mode. </p> 
 <p>This cpu emulation uses all the addressable memory in the ranges of 0x0000-0xFFFF as RAM. </p>  
+<p>Interrupts and Reset Signals still need to be added. WIP </p> 
